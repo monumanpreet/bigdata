@@ -25,6 +25,7 @@ Based on the above data, please answer following questions:
 **Sample output**
 
 URL Count
+___  _____
 shuttle/missions/sts-71/mission-sts-71.html 549
 shuttle/resources/orbiters/enterprise.html 145
 
@@ -46,5 +47,6 @@ _____________ ___
 **Sample output**
 
 HTTP code - Count
+__________  _____
 200 - 15400
 404 - 324
