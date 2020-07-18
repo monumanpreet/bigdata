@@ -33,7 +33,9 @@ shuttle/resources/orbiters/enterprise.html 145
 **Sample output**
 
 URL Count
+__   ______
 192.168.78.24 219
+_____________ ___
 
 **Q3: Write spark code to find out top 5 time frame for high traffic (which day of the week or hour of the day receives peak traffic, this information will help company to manage resources for handling peak traffic load)**
 
